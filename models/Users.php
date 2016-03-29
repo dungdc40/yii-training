@@ -7,4 +7,3 @@ class Users extends ActiveRecord
 {
     
 }
-
